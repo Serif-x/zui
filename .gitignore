@@ -1,6 +1,7 @@
 apps/
 node_modules/
 build/
+.idea/
 *.sublime-project
 *.sublime-workspace
 ISSUES.md
